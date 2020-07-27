@@ -1,0 +1,13 @@
+Universidad Mayor de San Andres
+Materia: INF-324
+Universitario: Maquera Cañasto Erik
+---------------------
+Instrucciones:
+
+1. Para ver el funcionamiento del ejercicio importe las dos bases de datos denominadas: academico3 y flujo
+2. Modifique las configuraciones para el acceso a su base de datos como ser: host, usuario y contraseña, por defecto se encuentra con 
+host = "localhost";
+user = "root";
+password = "";
+
+El motor del programa sigue el flujo de la imagen con nombre flujo.jpg
